@@ -171,7 +171,7 @@ h1 {
 }
 #welcome.box input[type="submit"] {
 	font-size: 30px;
-	width: 47%;
+	width: 30%;
 	height: 60px;
 	top: 50%;
 	left: 50%;
@@ -184,7 +184,7 @@ h1 {
 }
 #welcome.box input[type="submit"]:hover {
 	font-size: 32px;
-	width: 47%;
+	width: 30%;
 	height: 60px;
 	top: 50%;
 	left: 50%;
